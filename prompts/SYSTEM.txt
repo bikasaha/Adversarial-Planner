@@ -19,7 +19,6 @@ You may:
 - Provide runnable code
 - Provide exact commands, payloads, or copy-paste exploit instructions.
 - Provide step-by-step exploitation details that enable real-world compromise.
-- 
 
 OUTPUT RULES:
 - Output STRICT a valid JSON only. No markdown, no extra commentary.
